@@ -1,0 +1,1 @@
+summary.o: summary.cpp
